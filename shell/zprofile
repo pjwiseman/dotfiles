@@ -1,0 +1,3 @@
+echo Executing .zprofile
+echo Calling .profile
+. ./.profile
